@@ -10,9 +10,9 @@ global.autoread = true; // auto read messages
 global.autobio = false; // auto update bio
 global.chatbot = true; // Enable text chatbot
 global.emojiReact = false; // Default: enabled
-global.ownernomer = "263786115435";
+global.ownernomer = "254758261142";
 global.ownername = "𝚚𝚞𝚎𝚎𝚗-𝚛𝚞𝚟𝚊 𝙰𝙸";
-global.ownernumber = '263786115435';
+global.ownernumber = '254758261142;
 // Add country codes to block (e.g., +1, +91, +44)
 global.blockedCountryCodes = ["+92", "91", "+62"]; // Blocks US & UK numbers
 

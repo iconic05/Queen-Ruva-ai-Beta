@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: QUEEN-RUVA-AI-BETA
+    name: Talkaa
     env: node
-    region: singapore
+    region: pakistan
     buildCommand: npm install && npm install -g qrcode-terminal
     startCommand: node index.js
     plan: free
